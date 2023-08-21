@@ -40,7 +40,6 @@ type LayoutKey =
   | 'pager'
   | 'next'
   | 'jumper'
-  | '->'
   | 'total'
   | 'sizes'
   | 'slot'
